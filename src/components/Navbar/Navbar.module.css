@@ -1,0 +1,287 @@
+.navbarWrapper {
+  grid-area: n;
+  margin-left: 335px;
+}
+
+.name {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.companyName {
+  margin-right: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #1d1c1d;
+  margin-left: 5px;
+}
+
+.main {
+  background-color: #ff4c00;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+  margin-right: 90px;
+  padding: 9.5px 9.5px;
+}
+
+.mainName {
+  margin-left: 14px;
+}
+
+.question {
+  margin-left: 90px;
+}
+
+.request {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.request img {
+  margin-left: 10px;
+}
+
+.reqName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.calendar {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.calendar img {
+  margin-left: 10px;
+}
+
+.calName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.book {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.book img {
+  margin-left: 10px;
+}
+
+.bookName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.openBook {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.openBook img {
+  margin-left: 10px;
+}
+
+.openBookName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.check {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.check img {
+  margin-left: 10px;
+}
+
+.checkName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.message {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.message img {
+  margin-left: 10px;
+}
+
+.messName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.admin {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-top: 32px;
+}
+
+.adminName {
+  margin-right: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #1d1c1d;
+  margin-left: 5px;
+}
+
+.statistic {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.statistic img {
+  margin-left: 10px;
+}
+
+.statisticName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.copy {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.copy img {
+  margin-left: 10px;
+}
+
+.copyName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.people {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.people img {
+  margin-left: 10px;
+}
+
+.peopleName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.settings {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.settings img {
+  margin-left: 10px;
+}
+
+.settingsName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.layers {
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.layers img {
+  margin-left: 10px;
+}
+
+.layersName {
+  margin-left: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}

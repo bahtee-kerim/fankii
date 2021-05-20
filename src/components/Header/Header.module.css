@@ -1,0 +1,100 @@
+.headerWrapper {
+  grid-area: h;
+  margin-bottom: 20px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  background: #ffffff;
+}
+
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-left: -50px;
+}
+
+.logoGroup {
+  margin-right: 5px;
+}
+
+.searchContainer {
+  display: flex;
+  align-items: center;
+}
+
+.avatarContainer {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.aboutMe {
+}
+
+.avatar {
+  margin-right: 20px;
+}
+
+.searchContainer {
+  background: #f8f8f8;
+  color: #959595;
+  padding-right: 60px;
+  padding-left: -10px;
+  border: 1px solid #dddddd;
+  box-sizing: border-box;
+  border-radius: 6px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.searchContainer input {
+  width: 120px;
+  background: #f8f8f8;
+  font-family: Lato;
+  line-height: 17px;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  margin-right: -50px;
+}
+
+.bell {
+  margin-right: 8px;
+  margin-left: 12px;
+  margin-top: 3px;
+}
+
+.firstLine {
+  margin-left: 560px;
+}
+
+.secondLine {
+  margin-right: 20px;
+}
+
+.name {
+  font-size: 14px;
+  font-family: Lato;
+  line-height: 17px;
+  color: #1d1c1d;
+  font-weight: bold;
+  text-align: right;
+  margin-right: 20px;
+}
+
+.description {
+  font-family: Lato;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: normal;
+  color: #959595;
+  text-align: right;
+  margin-right: 20px;
+}

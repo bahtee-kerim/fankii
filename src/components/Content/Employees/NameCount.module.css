@@ -1,0 +1,134 @@
+.inputWrapper {
+  display: flex;
+  outline: none;
+  border: none;
+  margin-top: 20px;
+  margin-left: 21px;
+  margin-right: 21px;
+}
+
+.firstContainer {
+  display: flex;
+  align-items: center;
+  background-color: #f8f8f8;
+  padding: 8.2px;
+  border-radius: 6px;
+  margin-right: 58px;
+}
+
+.firstContainer input {
+  background-color: #f8f8f8;
+  outline: none;
+  border: none;
+}
+
+.firstContainer img {
+  margin-left: 4.5px;
+  margin-right: 9px;
+}
+
+.firstInput {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.count {
+  margin-right: 4px;
+  margin-left: -50px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #616061;
+}
+
+.secondContainer {
+  display: flex;
+  align-items: center;
+  background-color: #f8f8f8;
+  padding: 8.2px;
+  border-radius: 6px;
+  margin-right: 10px;
+}
+
+.secondContainer input {
+  background-color: #f8f8f8;
+  outline: none;
+  border: none;
+}
+
+.secondContainer img {
+  margin-left: 4.5px;
+  margin-right: 9px;
+}
+
+.secondInput {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.thirdContainer {
+  display: flex;
+  align-items: center;
+  background-color: #f8f8f8;
+  padding: 8.2px;
+  border-radius: 6px;
+  margin-right: 10px;
+}
+
+.thirdContainer input {
+  background-color: #f8f8f8;
+  outline: none;
+  border: none;
+}
+
+.thirdContainer img {
+  margin-left: 4.5px;
+  margin-right: 9px;
+}
+
+.thirdInput {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
+
+.fourthContainer {
+  display: flex;
+  align-items: center;
+  background-color: #f8f8f8;
+  padding: 8.2px;
+  border-radius: 6px;
+}
+
+.fourthContainer input {
+  background-color: #f8f8f8;
+  outline: none;
+  border: none;
+}
+
+.fourthContainer img {
+  margin-left: 4.5px;
+  margin-right: 9px;
+}
+
+.fourthInput {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1d1c1d;
+}
